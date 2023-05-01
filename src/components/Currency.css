@@ -1,0 +1,9 @@
+.currency-menu {
+    background-color: 'lightgreen';
+    color: 'azure'
+}
+
+.currency-menu option :hover {
+    background-color: white;
+    color: black;
+}
